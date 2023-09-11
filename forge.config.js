@@ -32,8 +32,8 @@ module.exports = {
       name: '@electron-forge/publisher-github',
       config: {
         respository: {
-          owner: '',
-          name: '',
+          owner: 'DeerForceRP',
+          name: 'DeerforceElectron',
         },
         prerelease: true
       }
